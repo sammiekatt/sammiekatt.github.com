@@ -1,4 +1,14 @@
-I am a postdoctoral researcher at Aalto University working with Sami Kaski on human-AI collaboration.
+{::options parse_block_html="true" /}
+<div style="float: right">
+![portrait](./assets/images/personal-portrait-small-150px.jpeg)
+
+[![email](./assets/images/email.png)](mailto:sammie.katt@gmail.com)
+[![linked-in](./assets/images/linked-in-logo.png)](https://www.linkedin.com/in/sammie-katt-6a82a095/)
+[![github](./assets/images/github-mark.png)](https://www.github.com/sammiekatt)
+
+</div>
+
+I am a postdoctoral researcher at Aalto University working with [Sami Kaski](https://kaski-lab.com/) on human-AI collaboration.
 Before that, I did my PhD at Northeastern University with [Chris Amato](https://www.ccs.neu.edu/home/camato/), after I had finished my master's at the University of Amsterdam supervised by [ Frans Oliehoek ](https://www.fransoliehoek.net/wp/).
 During my master's and Phd, I worked on **Bayesian reinforcement learning**.
 Since then, I have focused on **human-AI collaboration**.
