@@ -2,9 +2,11 @@
 <div style="float: right">
 ![portrait](./assets/images/personal-portrait-small-150px.jpeg)
 
+{:refdef: style="text-align: center;"}
 [![email](./assets/images/email.png)](mailto:sammie.katt@gmail.com)
 [![linked-in](./assets/images/linked-in-logo.png)](https://www.linkedin.com/in/sammie-katt-6a82a095/)
 [![github](./assets/images/github-mark.png)](https://www.github.com/sammiekatt)
+{: refdef}
 
 </div>
 
