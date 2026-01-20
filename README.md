@@ -6,7 +6,7 @@
 [![email](./assets/images/email.png)](mailto:sammie.katt@gmail.com)
 [![linked-in](./assets/images/linked-in-logo.png)](https://www.linkedin.com/in/sammie-katt-6a82a095/)
 [![github](./assets/images/github-mark.png)](https://www.github.com/sammiekatt)
-[![github](./assets/images/cv-icon.png)]({{ site.url }}/cv.pdf)
+[![github](./assets/images/cv-icon.png)]({{ site.url }}/assets/pdfs/cv.pdf)
 {: refdef}
 
 </div>
@@ -32,5 +32,5 @@ This is a broad class of problems defined by the fact that a *user* is a key par
 
 # News
 
-- Jan 2026: our work "[More Than Irrational: Modeling Belief-Biased Agents](https://research.aalto.fi/en/publications/more-than-irrational-modeling-belief-biased-agents/)" got accepted at AAAI (congrats [Yifan](https://yifan-zhu.com)!). I will also present a poster at AAAI workshop [ToM4AI](https://tom4ai.github.io/events/AAAI2026/) on "Theory of Mind in Human-in-the-Loop".
+- Jan 2026: our work "[More Than Irrational: Modeling Belief-Biased Agents](https://research.aalto.fi/en/publications/more-than-irrational-modeling-belief-biased-agents/)" got accepted at AAAI (congrats [Yifan](https://yifan-zhu.com)!). I will also present a [poster]({{ site.url }}/assets/pdfs/atom-poster.pdf) at AAAI workshop [ToM4AI](https://tom4ai.github.io/events/AAAI2026/) on "Theory of Mind in Human-in-the-Loop".
 - Dec 2025: the site is live!
