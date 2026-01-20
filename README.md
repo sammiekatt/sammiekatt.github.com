@@ -6,6 +6,7 @@
 [![email](./assets/images/email.png)](mailto:sammie.katt@gmail.com)
 [![linked-in](./assets/images/linked-in-logo.png)](https://www.linkedin.com/in/sammie-katt-6a82a095/)
 [![github](./assets/images/github-mark.png)](https://www.github.com/sammiekatt)
+[![github](./assets/images/cv-icon.png)]({{ site.url }}/cv.pdf)
 {: refdef}
 
 </div>
