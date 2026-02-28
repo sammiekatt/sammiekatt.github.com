@@ -4,7 +4,7 @@ During my master's and PhD, I worked on **Bayesian reinforcement learning**.
 Since then, I have focused on **human-AI collaboration**.
 Here, I focus on designing AI that models their users as *intentional* agents with *beliefs over the consequences of their interactions with the system*. 
 
-You can find a taste of my research [here](/research), though for a comprehensive list look at [Google scholar](https://scholar.google.com/citations?&user=NZmmHacAAAAJ).
+You can find a taste of my research here, though for a comprehensive list look at [Google scholar](https://scholar.google.com/citations?&user=NZmmHacAAAAJ).
 Where appropriate, I have included the code repositories there. For all my public code, check out my [Github](https://www.github.com/sammiekatt) instead.
 
 Core ideas behind my work are:
@@ -20,5 +20,5 @@ This is a broad class of problems defined by the fact that a *user* is a key par
 # News
 
 - Jan 2026: our work "[Predictive Deep Sets](https://openreview.net/forum?id=G5ofLaGCit)" got accepted at AIStats (congrats [Alex](https://www.linkedin.com/in/alex-h%C3%A4m%C3%A4l%C3%A4inen)!).
-- Jan 2026: our work "[More Than Irrational: Modeling Belief-Biased Agents](https://research.aalto.fi/en/publications/more-than-irrational-modeling-belief-biased-agents/)" got accepted at AAAI (congrats [Yifan](https://yifan-zhu.com)!). I will also present a [poster]({{ site.url }}/assets/pdfs/atom-poster.pdf) at AAAI workshop [ToM4AI](https://tom4ai.github.io/events/AAAI2026/) on "Theory of Mind in Human-in-the-Loop".
+- Jan 2026: our work "[More Than Irrational: Modeling Belief-Biased Agents](https://research.aalto.fi/en/publications/more-than-irrational-modeling-belief-biased-agents/)" got accepted at AAAI (congrats [Yifan](https://yifan-zhu.com)!). I will also present a poster at AAAI workshop [ToM4AI](https://tom4ai.github.io/events/AAAI2026/) on "Theory of Mind in Human-in-the-Loop".
 - Dec 2025: the site is live!
