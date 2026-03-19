@@ -22,7 +22,7 @@ Where appropriate, I have included the code repositories there. For all my publi
 
 Core ideas behind my work are:
 
-- **Computational Rationality and Theory of Mind** (Bounded): the theory that human behavior can be explained as decision-making that optimizes some utility, albeit under constraints. This theory provides a principled and general approach for modeling, inferring, and predicting actions from humans.
+- **Computational (Bounded) Rationality: the theory that human behavior can be explained as decision-making that optimizes some utility, albeit under constraints. This theory provides a principled and general approach for modeling, inferring, and predicting actions from humans.
 - **Theory of Mind**: by assigning *beliefs*, *desires*, and *intentions* to each other, we model each other with incredible accuracy. This allows us to predict each other and reason about joint solutions which, ultimately, is crucial to our ability to collaborate.
 - **Bayesian Inference & Uncertainty Estimation**: I am particularly interested in problems with uncertainty. This uncertainty can be with respect to the state of the environment, its dynamics, or the task. The Bayesian perspective provides a principled mechanism for capturing uncertainty and is used throughout my work.
 
