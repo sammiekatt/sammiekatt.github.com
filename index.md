@@ -32,6 +32,7 @@ This is a broad class of problems defined by the fact that a *user* is a key par
 
 # News
 
+- June 2026: our work "Robust Bayesian Decision Making under Adversarial Uncertainty" (congrats [Hari](https://haripriyaaharikumar.github.io/)!) is accepted at UAI.
 - May 2026: our work "[Multi-Objective Bayesian Optimization via Adaptive ε-Constraint Decomposition](https://icml.cc/virtual/2026/poster/61074)" (congrats [Yaohong](https://fi.linkedin.com/in/yaohong-yang-99717a1b6)!) and "[Constrained Bayesian Experimental Design via Online Planning](https://icml.cc/virtual/2026/poster/66395)" (congrats [Yujia Gao](https://www.linkedin.com/in/yujia-guo-6738a0203), [Daolong](https://www.huangdaolang.com/), and [Xinyu](https://www.linkedin.com/in/xinyu-zhang-cs/)!) are accepted at ICML. I am excited to be attending the conference.
 - Jan 2026: our work "[Predictive Deep Sets](https://openreview.net/forum?id=G5ofLaGCit)" is accepted at AIStats (congrats [Alex](https://www.linkedin.com/in/alex-h%C3%A4m%C3%A4l%C3%A4inen)!).
 - Jan 2026: our work "[More Than Irrational: Modeling Belief-Biased Agents](https://research.aalto.fi/en/publications/more-than-irrational-modeling-belief-biased-agents/)" is accepted at AAAI (congrats [Yifan](https://yifan-zhu.com)!). I will also present a [poster]({{ site.url }}/assets/pdfs/atom-poster.pdf) at AAAI workshop [ToM4AI](https://tom4ai.github.io/events/AAAI2026/) on "Theory of Mind in Human-in-the-Loop".
